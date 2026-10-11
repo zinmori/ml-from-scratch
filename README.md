@@ -1,0 +1,1 @@
+This repository contains various classical Machine Learning algorithms coded from scratch using python.
